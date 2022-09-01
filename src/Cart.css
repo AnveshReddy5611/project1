@@ -1,0 +1,18 @@
+#totalcost{
+    margin-top: 3rem;
+    margin-left: 50rem;
+    margin-bottom: 3rem;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px black inset;
+    border-radius: 12px;
+
+}
+#placeorder{
+    margin-top: 1rem;
+    border: 1px solid;
+    padding: 5px;
+    margin-bottom: 1rem;
+    border-radius: 12px;
+
+}
